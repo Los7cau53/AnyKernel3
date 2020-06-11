@@ -4,7 +4,7 @@
 properties() { '
 kernel.string=Kernel from Stormbreaker-projects
 do.devicecheck=1
-do.modules=0
+do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
