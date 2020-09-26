@@ -1,4 +1,4 @@
-NAME ?= Stormbreaker
+NAME ?= Los7cau53
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 

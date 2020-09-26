@@ -2,14 +2,14 @@
 # osm0sis @ xda-developers
 
 properties() { '
-kernel.string=Kernel from Stormbreaker-projects
+kernel.string=Kernel from los7cau53
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=
-device.name2=
+device.name1=phoenix
+device.name2=phoenixin
 supported.versions=
 supported.patchlevels=
 '; }

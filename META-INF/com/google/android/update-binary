@@ -387,22 +387,7 @@ if [ $? != 0 -o -z "$(ls bin)" ]; then
   abort "Busybox setup failed. Aborting...";
 fi;
 
-ui_print "=======================================";
-ui_print "             ,:\                       ";
-ui_print "            //  \_()  ___              ";
-ui_print "           ||   |    |   ||            ";
-ui_print "           ||   |    |   ||            ";
-ui_print "           ||   |____|___||            ";
-ui_print "            \\  / ||                   ";
-ui_print "             `:/  ||                   ";
-ui_print "                  ||                   ";
-ui_print "                  ||                   ";
-ui_print "                  XX                   ";
-ui_print "                  XX                   ";
-ui_print "                  XX                   ";
-ui_print "                  XX                   ";
-ui_print "                  OO                   ";
-ui_print "                  `'                   ";
+
 ui_print "=======================================";
 ui_print "$(file_getprop anykernel.sh kernel.string)";
 ui_print "=======================================";
